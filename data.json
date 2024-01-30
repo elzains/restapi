@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Restoran A",
+    "description": "Deskripsi restoran A",
+    "picture": "url_gambar_A",
+    "city": "Kota A",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Restoran B",
+    "description": "Deskripsi restoran B",
+    "picture": "url_gambar_B",
+    "city": "Kota B",
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "name": "Rampet",
+    "description": "nsjbcabdvckjasbjdcaksbxc",
+    "picture": "abscbabsc",
+    "city": "Malang",
+    "rating": "8"
+  }
+]
